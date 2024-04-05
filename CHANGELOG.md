@@ -1,4 +1,4 @@
-# CHANGELOG
+Light Shield CHANGELOG
 
 ## {DATE}
 ### Contributors
@@ -11,4 +11,11 @@
 ...
 
 ### Removed
+...
+
+4/4/2024
+Rebecca Wong
+...
+
+Submission image of light shield added
 ...
